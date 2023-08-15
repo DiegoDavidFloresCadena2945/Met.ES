@@ -14,3 +14,11 @@ Clase#1 07/08/23
 + :dart: Crear un proyecto clonando el repositorio de Github.
 
 + :dart: Realizar la primera sincronización del proyecto y la nube (Github).
+
+Clase#3 15/08/2023
+
+# Actividad 3 hipótesis
+
++ :dart: Hoy vimos lo que es la hipótesis y nos explicaron lo que es la hipótesis nula y la alternativa
+
+#Clase 3 15/08/2023
