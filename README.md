@@ -5,7 +5,7 @@ Hoy es el inicio del semestre y creamos nuestro primer repositorio
 
 Clase#1 07/08/23
 
-#Actividad 2 configurar Git Github, crear proyecto
+# Actividad 2 configurar Git Github, crear proyecto
 
 #Objetivo
 
