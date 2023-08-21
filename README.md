@@ -15,10 +15,16 @@ Clase#1 07/08/23
 
 + :dart: Realizar la primera sincronización del proyecto y la nube (Github).
 
-Clase#3 15/08/2023
+Clase#2 08/08/2023
 
 # Actividad 3 hipótesis
 
 + :dart: Hoy vimos lo que es la hipótesis y nos explicaron lo que es la hipótesis nula y la alternativa
 
-#Clase 3 15/08/2023
+Clase#3 15/08/2023
+
+# Actividad 4
+
++ :dart: Existen 2 tipos de muestra: dependientes e independientes
+
+Clase# 4 21/08/2023
