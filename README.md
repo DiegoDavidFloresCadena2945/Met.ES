@@ -28,3 +28,7 @@ Clase#3 15/08/2023
 + :dart: Existen 2 tipos de muestra: dependientes e independientes
 
 Clase# 4 21/08/2023
+
+# Actividad 5
++ :dart: Aprendimos a compilar un reporte (R)
+Clase# 5 22/08/2023
