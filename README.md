@@ -40,3 +40,9 @@ Clase# 4 21/08/2023
 + :dart: Aprendimos los codigos para obtener el p-value, los intervalos de confianza, los grados de libertad y el t.test
 
 Clase# 5 22/08/2023
+
+# Actividad 6
+
++ :dart: Comparamos datos de plantas fertilizadas y controladas, y sacamos las medidas de disperción y tendencia central
+
+Clase# 6 28/08/2023
