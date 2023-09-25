@@ -46,3 +46,21 @@ Clase# 5 22/08/2023
 + :dart: Comparamos datos de plantas fertilizadas y controladas, y sacamos las medidas de disperción y tendencia central
 
 Clase# 6 28/08/2023
+
+# Actividad 7
+
++ :dart: Realizamos de nuevo la hipotesis con la finalidad de mejorar nuestra habilidad para generar hipotesis
+
+Clase# 7 29/08/2023
+
+# Actividad 8
+
++ :dart: Realizamos una actividad en la que teniamos que comparar el crecimiento del diametro de arboles que se les puso fertilizante y arboles que no tenian fertilizante
+
+Clase# 8 05/09/2023
+
+# Acitividad 9
+
++ :dart: Aprendimos a sacar la correlación de un conjunto de datos
+
+Clase# 9 25/09/2023
