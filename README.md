@@ -64,3 +64,9 @@ Clase# 8 05/09/2023
 + :dart: Aprendimos a sacar la correlación de un conjunto de datos
 
 Clase# 9 25/09/2023
+
+# Actividad 10
+
++ :dart: El profesor nos proporcionó unos datos y con esos datos sacamos la media y la varianza, asi como el coeficiente de correlación e hicmos una gráfica
+
+Clase# 10 26/09/2023
