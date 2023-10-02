@@ -70,3 +70,9 @@ Clase# 9 25/09/2023
 + :dart: El profesor nos proporcionó unos datos y con esos datos sacamos la media y la varianza, asi como el coeficiente de correlación e hicmos una gráfica
 
 Clase# 10 26/09/2023
+
+# Actividad 11
+
++ :dart: Realizamos una actividad sobre la correlación
+
+Clase# 11 02/10/2023
