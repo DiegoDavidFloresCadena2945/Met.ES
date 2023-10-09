@@ -76,3 +76,9 @@ Clase# 10 26/09/2023
 + :dart: Realizamos una actividad sobre la correlación
 
 Clase# 11 02/10/2023
+
+# Actividad 12
+
++ :dart: Realizamos una actividad sobre la regresión lineal
+
+Clase# 12 09/10/2023
