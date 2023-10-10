@@ -82,3 +82,9 @@ Clase# 11 02/10/2023
 + :dart: Realizamos una actividad sobre la regresión lineal
 
 Clase# 12 09/10/2023
+
+# Actividad 13
+
++ :dart: Realizamos una actividad sobre el análisis de varianza
+
+Clase# 13 10/10/2023
