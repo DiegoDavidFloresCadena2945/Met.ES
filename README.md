@@ -88,3 +88,9 @@ Clase# 12 09/10/2023
 + :dart: Realizamos una actividad sobre el análisis de varianza
 
 Clase# 13 10/10/2023
+
+# Activdad 14
+
++ :dart: Realizamos el PIA
+
+clase# 14 28/11/2023
