@@ -94,3 +94,9 @@ Clase# 13 10/10/2023
 + :dart: Realizamos el PIA
 
 clase# 14 28/11/2023
+
+# Actividad 15
+
++ :dart: Realizamos  el examen global
+
+clase# 15 29/11/2023
