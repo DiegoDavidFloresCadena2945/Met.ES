@@ -105,6 +105,6 @@ clase# 15 29/11/2023
 
 + :dart: Agregamos una imagen a GitHub
 
-clase# 30/11/2023
+clase# 16 30/11/2023
 
 ![](https://github.com/DiegoDavidFloresCadena2945/Met.ES/blob/main/Gr%C3%A1fica%20de%20Diego.JPG)
