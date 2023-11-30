@@ -100,3 +100,11 @@ clase# 14 28/11/2023
 + :dart: Realizamos  el examen global
 
 clase# 15 29/11/2023
+
+# Actividad 16
+
++ :dart: Agregamos una imagen a GitHub
+
+clase# 30/11/2023
+
+![](https://github.com/DiegoDavidFloresCadena2945/Met.ES/blob/main/Gr%C3%A1fica%20de%20Diego.JPG)
